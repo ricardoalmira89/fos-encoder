@@ -1,7 +1,12 @@
+Installation:
+```
+npm i @azcro/fos-encoder
+```
+
 Usage:
 
 ```
-const fos = require('./src/index');
+const fos = require('@azcro/fos-encoder');
 
 const password = 'VerySecuredPassword';
 const salt = 'Sb573aRXw2V0in3YpF.xeasGGqA2PeBL64GH9cHnCFs';

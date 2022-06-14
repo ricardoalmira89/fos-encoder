@@ -1,6 +1,6 @@
 {
   "name": "@azcro/fos-encoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Friends of Symfony (FOS) password encoder utility for nodejs",
   "main": "./src/index.js",
   "scripts": {
